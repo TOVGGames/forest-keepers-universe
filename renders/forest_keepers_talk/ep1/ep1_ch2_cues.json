@@ -1,0 +1,107 @@
+[
+ {
+  "i": 0,
+  "who": "narrator",
+  "text": "Down at the pond, someone else was waking up too.",
+  "start": 1.5,
+  "end": 5.598
+ },
+ {
+  "i": 1,
+  "who": "springs",
+  "text": "Good morning, sun! Good morning, sky! Good morning... um. Who are you?",
+  "start": 6.298,
+  "end": 12.778
+ },
+ {
+  "i": 2,
+  "who": "sprout",
+  "text": "I don't know. I just woke up.",
+  "start": 13.478,
+  "end": 15.958
+ },
+ {
+  "i": 3,
+  "who": "springs",
+  "text": "Me too! I've been asleep at the bottom of the pond all winter.",
+  "start": 16.658,
+  "end": 21.538
+ },
+ {
+  "i": 4,
+  "who": "sprout",
+  "text": "Under the water? How did you breathe?",
+  "start": 22.238,
+  "end": 25.278
+ },
+ {
+  "i": 5,
+  "who": "springs",
+  "text": "Through my skin! When the water's cold and I'm all slowed down, that's all I need.",
+  "start": 25.978,
+  "end": 32.698
+ },
+ {
+  "i": 6,
+  "who": "narrator",
+  "text": "It's true. Some frogs rest at the bottom of a pond all winter long, breathing through their skin, and waiting for spring.",
+  "start": 33.398,
+  "end": 42.05
+ },
+ {
+  "i": 7,
+  "who": "springs",
+  "text": "Hey, you've got a little sprout on your head! A little sprout... Sprout! Can I call you Sprout?",
+  "start": 42.75,
+  "end": 50.11
+ },
+ {
+  "i": 8,
+  "who": "sprout",
+  "text": "Sprout. ...I like it.",
+  "start": 50.81,
+  "end": 52.89
+ },
+ {
+  "i": 9,
+  "who": "springs",
+  "text": "And I'm Springs! Because I'm full of hops. Watch!",
+  "start": 53.59,
+  "end": 57.67
+ },
+ {
+  "i": 10,
+  "who": "sprout",
+  "text": "I don't think I'm a hopper.",
+  "start": 59.87,
+  "end": 61.79
+ },
+ {
+  "i": 11,
+  "who": "springs",
+  "text": "Are you a frog?",
+  "start": 62.49,
+  "end": 63.93
+ },
+ {
+  "i": 12,
+  "who": "sprout",
+  "text": "I don't think I'm a frog either.",
+  "start": 64.63,
+  "end": 66.87
+ },
+ {
+  "i": 13,
+  "who": "springs",
+  "text": "Then let's find out what you are! I know someone who knows everything about this meadow. Well... everything under it.",
+  "start": 67.57,
+  "end": 76.29
+ },
+ {
+  "i": 14,
+  "who": "narrator",
+  "text": "So off they went together. Springs went first, of course.",
+  "start": 76.99,
+  "end": 81.045
+ }
+]

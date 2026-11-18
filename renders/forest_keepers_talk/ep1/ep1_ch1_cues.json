@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "who": "narrator",
+  "text": "Before there were any Forest Keepers, there was a forest. And at its edge stood an old oak tree, and one little acorn, asleep under the leaves.",
+  "start": 5.0,
+  "end": 15.568
+ },
+ {
+  "i": 1,
+  "who": "narrator",
+  "text": "Some acorns wait under the leaves all winter. And this one waited, until spring came and warmed the ground.",
+  "start": 16.268,
+  "end": 23.785
+ },
+ {
+  "i": 2,
+  "who": "sprout",
+  "text": "Oh! ...Hello?",
+  "start": 29.785,
+  "end": 31.705
+ },
+ {
+  "i": 3,
+  "who": "sprout",
+  "text": "Hello? Is anybody there?",
+  "start": 32.405,
+  "end": 34.805
+ },
+ {
+  "i": 4,
+  "who": "sprout",
+  "text": "The leaves are all soft and wet. And the air smells like rain.",
+  "start": 37.005,
+  "end": 42.205
+ },
+ {
+  "i": 5,
+  "who": "sprout",
+  "text": "I'm awake. I'm green. And I have leaves on my head. But what am I? And where do I belong?",
+  "start": 42.905,
+  "end": 50.585
+ },
+ {
+  "i": 6,
+  "who": "sprout",
+  "text": "Somebody's down there!",
+  "start": 52.785,
+  "end": 54.465
+ }
+]

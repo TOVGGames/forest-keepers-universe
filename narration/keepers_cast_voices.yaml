@@ -1,0 +1,18 @@
+# Production copy (Forest Keepers session, 2026-11-17) of experiments/forest_keepers_talk/cast_voices.yaml; used by
+# families/keepers/talk/voices.py. The narrator has no speed setting: it does nothing on eleven_v4; her pace comes from
+# the pitch-preserving stretch to pace_wpm.
+# Forest Keepers talking format: the cast's voices. Owner's picks, 2026-11-17, after two audition rounds
+# (docs/engines/forest_keepers_talk_format.md). All ElevenLabs library voices. Never the biology voice (Lindsay).
+# The character voices were auditioned on model eleven_v4 (its `speed` setting did nothing in our test).
+glo:     {voice_id: ocZQ262SsZb9RIxcQBOj, name: "Lulu Lolipop", model_id: eleven_v4}     # owner: "definitely the winner"
+springs: {voice_id: n3tkGOcEribaYI5zg4pu, name: "Fergy Frog", model_id: eleven_v4}
+digs:    {voice_id: eh3mW70o6niXfNTuBPbY, name: "Georgee", model_id: eleven_v4}
+sprout:  {voice_id: bA58y3FqVI6b6gTNh0oT, name: "Kavya", model_id: eleven_v4}
+# Narrator: Johanna as before, but the owner picked speed 0.88 from samples made on eleven_multilingual_v2
+# ("half between .84 and .92"). On eleven_v4 the speed setting did not change the take, so the model matters.
+# UPDATE, owner 2026-11-17 (after Proof B): Johanna on eleven_v4, one take per scene, each line then slowed to about
+# 157 words a minute with a pitch-preserving stretch (ffmpeg atempo). Her eleven_multilingual_v2 takes varied too
+# much in tone ("terrible" on Proof B's lines), and a lower speed setting darkened her voice.
+narrator: {voice_id: F6nGuJbivpy6qJE45XFS, name: "Johanna", model_id: eleven_v4, pace_wpm: 157}
+voice_settings: {stability: 0.45, similarity_boost: 0.75, style: 0.2, use_speaker_boost: true}
+narrator_settings: {stability: 0.5, similarity_boost: 0.75, style: 0.0, use_speaker_boost: true}

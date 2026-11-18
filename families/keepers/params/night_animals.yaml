@@ -1,0 +1,37 @@
+# Forest Keepers engine - episode 11: Who's Awake Tonight? (docs/engines/forest_keepers_night_animals.md), 16:9.
+# A night walk to meet six night-time neighbours (raccoon, barred owl, opossum, flying squirrel, red fox, white-tailed
+# deer), each spotted by one Keeper, drawn in code to field-guide accuracy (animals.py), found in the Keeper Field
+# Guide, with a name card. The first narrated episode: the grandmother narrator (narrator.py, Johanna) gives hints
+# and reads each animal's line. End sign appended (the narrator asks what the Keepers should do next).
+family: keepers
+name: night_animals        # render ID suffix: FK####_night_animals
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 700
+summary: "Forest Keepers: a narrated night walk; the Keepers meet a raccoon, a barred owl, an opossum with her babies, a flying squirrel, a red fox and a white-tailed deer with her fawn, and find each in their field guide"
+narrator: true
+end_sign_text: "WHAT SHOULD THEY DO NEXT?"
+
+monsters: 6
+monster_scale: 0.55
+fade: 0.8
+acts: [night]
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 0.9
+  bed_gain: 0.9
+  variant: nightwalk
+
+chatter:
+  gap: [4.5, 7.5]
+  vel: 0.3
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

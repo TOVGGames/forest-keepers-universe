@@ -1,0 +1,36 @@
+# Forest Keepers engine - episode 6: The Treetop Marble Run (docs/engines/forest_keepers_marble_run.md), 16:9.
+# A wooden ball rolls away -> Glo's idea: a marble run -> six marbles made in the workshop (sawn, tumbled, painted
+# in the Keepers' colours) -> the run built between two big trees -> a marble race (real physics) -> cheer.
+# End sign appended.
+family: keepers
+name: marble_run           # render ID suffix: FK####_marble_run
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 600
+summary: "Forest Keepers: the Keepers make six wooden marbles and build a treetop marble run, then race the marbles"
+
+monsters: 6
+monster_scale: 0.55
+fade: 0.8
+acts: [ball, marbles, run, marble_race, cheer]
+
+marble_race:
+  race_seed: 29
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 1.0
+  bed_gain: 1.0
+
+chatter:
+  gap: [3.6, 6.0]
+  vel: 0.34
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

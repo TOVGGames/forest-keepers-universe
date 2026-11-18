@@ -1,0 +1,36 @@
+# Forest Keepers engine - episode 13: Getting Ready for Winter (docs/engines/forest_keepers_winter_ready.md), 16:9.
+# A narrated walk from sunset into the night: each Keeper gives one animal a gentle hand as it gets ready for winter
+# (eastern chipmunk, beaver, Canada geese, groundhog, black bear, black-capped chickadee; facts checked with sources),
+# a counter READY FOR WINTER n / 6, a name card each, and at the very end the first snowflakes. End sign appended.
+family: keepers
+name: winter_ready         # render ID suffix: FK####_winter_ready
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 700
+summary: "Forest Keepers: a narrated walk from sunset into the night as six neighbours get ready for winter (chipmunk, beaver, Canada geese, groundhog, black bear, chickadee), each helped by a Keeper, ending with the first snowflakes"
+narrator: true
+end_sign_text: "WHAT SHOULD THEY DO NEXT?"
+
+monsters: 7
+monster_scale: 0.55
+fade: 0.8
+acts: [winter]
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 0.9
+  bed_gain: 0.9
+  variant: winterready
+
+chatter:
+  gap: [4.5, 7.5]
+  vel: 0.3
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

@@ -1,0 +1,24 @@
+# Forest Keepers narrator audition, round 1 (2026-11-01). Owner brief: an elderly grandmother voice, a gentle female
+# sage who gives hints of what the Keepers are up to (thinking of Puffin Rock's narrator); first tried on the
+# animals-of-the-forest episode (docs/engines/forest_keepers_night_animals.md). Never the biology voice (Lindsay).
+# All candidates are ElevenLabs library voices with a 730-day withdrawal notice. Text: a DRAFT opening.
+text: >-
+  Deep in the forest, when the moon is up and the crickets are singing, the Forest Keepers go out for a quiet walk.
+  Tonight, they're hoping to meet a few of their neighbors. Shh... did you see that? Something with a stripy tail
+  just slipped behind the old log. I wonder who it could be.
+candidates:
+  - {letter: A, name: Maria Moody, voice_id: wGcFBfKz5yUQqhqr0mVy, note: "US, in her 80s - grandmotherly storykeeper, patient pauses"}
+  - {letter: B, name: Grandma Rachel, voice_id: 0rEo3eAjssGDUCXHYENf, note: "US Southern - wise senior, tall tales"}
+  - {letter: C, name: Grandma Clo, voice_id: EMuO6fFLrXKOryHzij6K, note: "warm, gentle storyteller grandmother"}
+  - {letter: D, name: Beatrice, voice_id: kkPJzQOWz2Oz9cUaEaQd, note: "British, mature - gentle, warm, calm pace"}
+  - {letter: E, name: Nana Margaret, voice_id: xIzR6egd3S3LJZbVW0c1, note: "US - sweet little old lady"}
+# Round 1 owner verdict (2026-11-01): keep C (maybe the favourite, but much quieter than the others, hard to hear;
+# maybe a little British) and D; no to A, B, E. Find a few others to compare with C and D.
+# Round 2 (2026-11-01): C and D again plus five more, all loudness-matched (EBU R128, about -18 LUFS):
+round2:
+  - {letter: F, name: Jane, voice_id: RILOU7YmBhvwJGDGjNmP, note: "British, 50s - professional audiobook reader"}
+  - {letter: G, name: Eleanor, voice_id: 2qQJWjw5XdG80GreshqG, note: "British, older - gracious, clear"}
+  - {letter: H, name: Johanna, voice_id: F6nGuJbivpy6qJE45XFS, note: "elderly, gentle, soft and unhurried"}
+  - {letter: I, name: Maeve, voice_id: kOvUpYLYS0rKGldsKcD1, note: "Irish - soft, warm, storytelling"}
+  - {letter: J, name: Beckie, voice_id: SpA6eNczAK7oucJPiPpw, note: "Irish, mature - gentle, warm, melodic"}
+# Round 2 owner verdict (2026-11-01): H, Johanna. -> narration/keepers_voice.yaml

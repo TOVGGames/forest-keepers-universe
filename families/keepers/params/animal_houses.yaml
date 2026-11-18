@@ -1,0 +1,31 @@
+# Forest Keepers engine - episode 4: The Animal Houses (docs/engines/forest_keepers_animal_houses.md), 16:9.
+# A cold night, the animals have nowhere warm to sleep -> the Keepers build a water wheel -> it powers a forest
+# workshop that makes six houses -> every house goes where it belongs and the animals move in. End sign appended.
+family: keepers
+name: animal_houses        # render ID suffix: FK####_animal_houses
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 720
+summary: "Forest Keepers: the animals need homes; a water wheel powers a forest workshop that makes 4 birdhouses, a hedgehog house and a bunny house; the animals move in"
+
+monsters: 6
+monster_scale: 0.55
+fade: 0.8
+acts: [wake, wheel, houses, deliver]
+
+camera:
+  omega: 1.6
+
+chatter:
+  on: false               # FK0001 was rendered before the Keepers talked more (episode 5 on)
+
+song:
+  gain: 1.0
+  bed_gain: 1.0
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

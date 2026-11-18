@@ -1,0 +1,114 @@
+[
+ {
+  "i": 0,
+  "who": "springs",
+  "text": "Hear that? Those are my cousins! The spring peepers!",
+  "start": 1.5,
+  "end": 5.82
+ },
+ {
+  "i": 1,
+  "who": "narrator",
+  "text": "Spring peepers are tiny frogs. On spring nights, they sing all together, so loudly you can hear them from far away.",
+  "start": 6.52,
+  "end": 14.8
+ },
+ {
+  "i": 2,
+  "who": "glo",
+  "text": "Look up, Sprout. What do you see?",
+  "start": 20.8,
+  "end": 23.2
+ },
+ {
+  "i": 3,
+  "who": "sprout",
+  "text": "A nest, with birds asleep in it. And a squirrel, curled up in a hole in the trunk. And little moths on the bark.",
+  "start": 23.9,
+  "end": 31.74
+ },
+ {
+  "i": 4,
+  "who": "digs",
+  "text": "And down below, its roots hold the soil together, all around my tunnels.",
+  "start": 32.44,
+  "end": 37.64
+ },
+ {
+  "i": 5,
+  "who": "springs",
+  "text": "And its leaves blow into my pond, and make cozy places for bugs!",
+  "start": 38.34,
+  "end": 43.46
+ },
+ {
+  "i": 6,
+  "who": "glo",
+  "text": "And I rest on its branches when the night is long.",
+  "start": 44.16,
+  "end": 47.68
+ },
+ {
+  "i": 7,
+  "who": "narrator",
+  "text": "An old oak tree can be home to hundreds of different kinds of creatures. Birds and squirrels, moths and beetles, and many more.",
+  "start": 48.38,
+  "end": 57.421
+ },
+ {
+  "i": 8,
+  "who": "sprout",
+  "text": "So the old oak was never by itself at all.",
+  "start": 58.121,
+  "end": 61.481
+ },
+ {
+  "i": 9,
+  "who": "glo",
+  "text": "Never. It looks after all of them. And they look after it, too.",
+  "start": 62.181,
+  "end": 66.901
+ },
+ {
+  "i": 10,
+  "who": "glo",
+  "text": "The jays and squirrels bury its acorns all over the meadow. And some of the acorns they forget grow into new oak trees.",
+  "start": 67.601,
+  "end": 75.681
+ },
+ {
+  "i": 11,
+  "who": "narrator",
+  "text": "It's true. Jays and squirrels hide acorns to eat later. And the ones they never come back for can grow into new oaks.",
+  "start": 76.381,
+  "end": 85.423
+ },
+ {
+  "i": 12,
+  "who": "sprout",
+  "text": "So maybe... a squirrel planted me?",
+  "start": 86.123,
+  "end": 89.563
+ },
+ {
+  "i": 13,
+  "who": "springs",
+  "text": "And forgot you! Lucky us!",
+  "start": 90.263,
+  "end": 92.983
+ },
+ {
+  "i": 14,
+  "who": "sprout",
+  "text": "The old oak isn't a squirrel, or a bird, or a frog. But they all belong with it.",
+  "start": 95.183,
+  "end": 101.503
+ },
+ {
+  "i": 15,
+  "who": "glo",
+  "text": "That's my secret. You don't have to be the same as your friends. You just look after each other.",
+  "start": 102.203,
+  "end": 108.123
+ }
+]

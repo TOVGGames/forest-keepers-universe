@@ -1,0 +1,37 @@
+# Forest Keepers engine - A New Friend from the Factory (docs/engines/forest_keepers_factory_trip.md), 16:9.
+# Twigs' wrist saws can't pick up an acorn; Glo's idea: back to the night-shift factory. The orb trolley lifts
+# Twigs' orb out, UNCLIP takes off his saws, FIT gives him hands with slide-out pruning blades, his orb goes back in.
+# Then the machines build Sprout, the seventh Keeper, from an oak log (CUT, TURN, CARVE, FIT); Twigs plants the
+# seedling in Sprout's cap, the seventh orb goes in and Sprout wakes up. Back home Twigs trims with one blade and
+# Sprout plants its very first tree. Narrated hook, name card and finale (Johanna). End sign with seven Keepers.
+family: keepers
+name: new_keeper           # render ID suffix: FK####_new_keeper
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 700
+summary: "Forest Keepers: back to the night-shift factory; Twigs gets hands with slide-out pruning blades, the machines build Sprout, the seventh Keeper, from an oak log, and Sprout plants its very first tree"
+narrator: true
+
+monsters: 7
+monster_scale: 0.55
+fade: 0.8
+acts: [nk_trip, nk_hall, nk_home]
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 1.0
+  bed_gain: 1.0
+  variant: newfriend       # its own key, tempo and form of the Keepers theme (owner: every video its own soundtrack)
+
+chatter:
+  gap: [3.8, 6.2]
+  vel: 0.34
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

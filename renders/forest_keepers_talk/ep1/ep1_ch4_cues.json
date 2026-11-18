@@ -1,0 +1,100 @@
+[
+ {
+  "i": 0,
+  "who": "narrator",
+  "text": "All afternoon, Sprout was quiet. Even Springs couldn't think of anything to say. And that almost never happens.",
+  "start": 1.5,
+  "end": 8.644
+ },
+ {
+  "i": 1,
+  "who": "springs",
+  "text": "Sprout? You don't have to be a tree today. You can just be Sprout.",
+  "start": 9.344,
+  "end": 14.384
+ },
+ {
+  "i": 2,
+  "who": "sprout",
+  "text": "But if I'm a tree, one day I'll have to stay in one place. And you'll hop away. And Digs will dig away.",
+  "start": 15.084,
+  "end": 22.764
+ },
+ {
+  "i": 3,
+  "who": "digs",
+  "text": "I wouldn't dig that far.",
+  "start": 23.464,
+  "end": 25.384
+ },
+ {
+  "i": 4,
+  "who": "springs",
+  "text": "And I'd hop back. I always hop back. Ask anybody.",
+  "start": 26.084,
+  "end": 30.484
+ },
+ {
+  "i": 5,
+  "who": "sprout",
+  "text": "Promise?",
+  "start": 31.184,
+  "end": 31.984
+ },
+ {
+  "i": 6,
+  "who": "springs",
+  "text": "Frog's honor.",
+  "start": 32.684,
+  "end": 34.044
+ },
+ {
+  "i": 7,
+  "who": "glo",
+  "text": "Hello, everyone. I heard someone new down here.",
+  "start": 45.044,
+  "end": 48.564
+ },
+ {
+  "i": 8,
+  "who": "springs",
+  "text": "Glo! This is Sprout. Sprout woke up today.",
+  "start": 49.264,
+  "end": 53.264
+ },
+ {
+  "i": 9,
+  "who": "glo",
+  "text": "Welcome, Sprout. I'm Glo. I keep watch over the forest at night.",
+  "start": 53.964,
+  "end": 58.684
+ },
+ {
+  "i": 10,
+  "who": "sprout",
+  "text": "All by yourself?",
+  "start": 59.384,
+  "end": 60.824
+ },
+ {
+  "i": 11,
+  "who": "glo",
+  "text": "For a long time, yes. Everyone was asleep while I was awake.",
+  "start": 61.524,
+  "end": 66.804
+ },
+ {
+  "i": 12,
+  "who": "sprout",
+  "text": "Wasn't that lonely?",
+  "start": 67.504,
+  "end": 69.184
+ },
+ {
+  "i": 13,
+  "who": "glo",
+  "text": "Sometimes. But I'll tell you a secret. I was never really alone. Come with me. I'll show you.",
+  "start": 69.884,
+  "end": 77.564
+ }
+]

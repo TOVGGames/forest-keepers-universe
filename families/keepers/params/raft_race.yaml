@@ -1,0 +1,36 @@
+# Forest Keepers engine - episode 7: The River Raft Race (docs/engines/forest_keepers_raft_race.md), 16:9.
+# A leaf floats down the mill race -> Digs' idea: rafts -> six log rafts built on the bank above the brook (logs
+# trimmed at a stop board, lashed, pressed, a leaf sail each that Glo's light colours) -> a raft race down the brook
+# (real water physics: riffle, two little falls, pools, rapids) -> cheer at the finish pool. End sign appended.
+family: keepers
+name: raft_race            # render ID suffix: FK####_raft_race
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 600
+summary: "Forest Keepers: the Keepers build six little log rafts with leaf sails and race them down the brook"
+
+monsters: 6
+monster_scale: 0.55
+fade: 0.8
+acts: [leaf, rafts, raft_race, raft_cheer]
+
+raft_race:
+  race_seed: 27
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 1.0
+  bed_gain: 1.0
+
+chatter:
+  gap: [3.6, 6.0]
+  vel: 0.34
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

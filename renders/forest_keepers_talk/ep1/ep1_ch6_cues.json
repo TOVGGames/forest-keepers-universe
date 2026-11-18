@@ -1,0 +1,93 @@
+[
+ {
+  "i": 0,
+  "who": "sprout",
+  "text": "I want to look after everybody. Like the old oak does.",
+  "start": 1.5,
+  "end": 5.5
+ },
+ {
+  "i": 1,
+  "who": "springs",
+  "text": "Then I'll look after the pond!",
+  "start": 6.2,
+  "end": 8.52
+ },
+ {
+  "i": 2,
+  "who": "digs",
+  "text": "And I'll look after the ground. Down underneath, where nobody sees.",
+  "start": 9.22,
+  "end": 13.94
+ },
+ {
+  "i": 3,
+  "who": "glo",
+  "text": "And I'll keep watch over the night. Not by myself any more.",
+  "start": 14.64,
+  "end": 18.72
+ },
+ {
+  "i": 4,
+  "who": "sprout",
+  "text": "And I'll look after the little growing things. Like me.",
+  "start": 19.42,
+  "end": 23.02
+ },
+ {
+  "i": 5,
+  "who": "glo",
+  "text": "Then we're keepers. Keepers of the forest.",
+  "start": 23.72,
+  "end": 27.08
+ },
+ {
+  "i": 6,
+  "who": "springs",
+  "text": "Forest Keepers!",
+  "start": 27.78,
+  "end": 29.3
+ },
+ {
+  "i": 7,
+  "who": "digs",
+  "text": "I like it.",
+  "start": 30.0,
+  "end": 31.36
+ },
+ {
+  "i": 8,
+  "who": "springs",
+  "text": "Can we start right now?",
+  "start": 32.06,
+  "end": 33.98
+ },
+ {
+  "i": 9,
+  "who": "glo",
+  "text": "Tomorrow. Tonight, you sleep. I'll be right here.",
+  "start": 34.68,
+  "end": 38.84
+ },
+ {
+  "i": 10,
+  "who": "digs",
+  "text": "I'll just take a little nap. Moles take lots of little naps.",
+  "start": 39.54,
+  "end": 43.86
+ },
+ {
+  "i": 11,
+  "who": "springs",
+  "text": "I'm not sleepy at all. Not even a... little... bit.",
+  "start": 44.56,
+  "end": 49.44
+ },
+ {
+  "i": 12,
+  "who": "narrator",
+  "text": "And that is how the Forest Keepers began. On a spring night, under the old oak, Sprout found out that you don't have to be the same as your friends to belong with them. You just have to look after each other.",
+  "start": 51.64,
+  "end": 67.837
+ }
+]

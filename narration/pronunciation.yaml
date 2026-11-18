@@ -1,0 +1,21 @@
+# How the narrator must say each term. Only entries under `apply:` change the text sent to the TTS;
+# captions and on-screen text keep the real spelling. Modern voices say most terms right from the plain
+# spelling, and a respelling can make them worse - so a term goes under `apply:` only after a take got it
+# wrong (checked by ear and by the speech-to-text pass). `candidates:` are ready respellings for that case.
+apply:
+  Charon: "Sharon"   # owner 2026-10-30: like Sharon or baron, never "KAIR-on"
+  opossum: "oh-POSS-um"   # owner 2026-11-01 (FK0008): "Oh-pahs-sum", not "OH-pa-sum"
+  AU: "ay-yoo"   # 2026-11-17 (SX Kepler Short SK1): David said "astronomical units" for AU and A.U.; the script says it as letters
+candidates:
+  Kuiper: "KY-per"
+  Eris: "EER-iss"
+  Haumea: "how-MAY-uh"
+  Makemake: "MAH-kay-MAH-kay"
+  Ceres: "SEER-eez"
+  Oort: "ort"
+  Tombaugh: "TOM-bow"
+  Encke: "ENG-kee"
+  Hale-Bopp: "hail bop"
+  Tsuchinshan: "tsoo-chin-shahn"
+  Lagrange: "luh-GRAHNJ"
+  Enceladus: "en-SELL-uh-dus"

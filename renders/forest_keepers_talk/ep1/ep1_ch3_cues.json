@@ -1,0 +1,107 @@
+[
+ {
+  "i": 0,
+  "who": "springs",
+  "text": "Digs! Digs, we have a question!",
+  "start": 1.5,
+  "end": 4.46
+ },
+ {
+  "i": 1,
+  "who": "digs",
+  "text": "I'm awake, I'm awake. Who's that with you? I can't see very well up here. It's too bright.",
+  "start": 5.16,
+  "end": 11.64
+ },
+ {
+  "i": 2,
+  "who": "sprout",
+  "text": "I'm Sprout. I'm new. And I don't know what I am.",
+  "start": 12.34,
+  "end": 16.74
+ },
+ {
+  "i": 3,
+  "who": "narrator",
+  "text": "Moles have tiny eyes, and they see very little. Under the ground, they find their way by touch, and by smell.",
+  "start": 17.44,
+  "end": 25.706
+ },
+ {
+  "i": 4,
+  "who": "digs",
+  "text": "I mostly live down there. Tunnels and tunnels. It's cool, and dark, and it smells wonderful. Come a little closer.",
+  "start": 26.406,
+  "end": 35.686
+ },
+ {
+  "i": 5,
+  "who": "digs",
+  "text": "You smell like the old oak tree.",
+  "start": 37.886,
+  "end": 40.446
+ },
+ {
+  "i": 6,
+  "who": "sprout",
+  "text": "The big one at the edge of the forest?",
+  "start": 41.146,
+  "end": 43.786
+ },
+ {
+  "i": 7,
+  "who": "digs",
+  "text": "I know its roots very well. They spread out, and out, under the whole meadow. And you smell just like them.",
+  "start": 44.486,
+  "end": 52.806
+ },
+ {
+  "i": 8,
+  "who": "sprout",
+  "text": "But that tree is so big. And I'm so small.",
+  "start": 53.506,
+  "end": 57.906
+ },
+ {
+  "i": 9,
+  "who": "digs",
+  "text": "Every oak tree starts out as one small acorn. Even that one.",
+  "start": 58.606,
+  "end": 63.566
+ },
+ {
+  "i": 10,
+  "who": "sprout",
+  "text": "So... I'm a tree?",
+  "start": 64.266,
+  "end": 66.506
+ },
+ {
+  "i": 11,
+  "who": "digs",
+  "text": "A very little one. With feet.",
+  "start": 67.206,
+  "end": 70.006
+ },
+ {
+  "i": 12,
+  "who": "springs",
+  "text": "A tree with feet!",
+  "start": 70.706,
+  "end": 72.626
+ },
+ {
+  "i": 13,
+  "who": "sprout",
+  "text": "But I can't hop like you. And I can't dig like Digs. And trees just stand in one place. All by themselves.",
+  "start": 74.826,
+  "end": 83.066
+ },
+ {
+  "i": 14,
+  "who": "digs",
+  "text": "...Huh.",
+  "start": 83.766,
+  "end": 84.726
+ }
+]

@@ -1,0 +1,14 @@
+# Space Explained narrator voice (docs/engines/space_explained.md §5). Owner, 2026-10-30: NOT the biology
+# voices (Lindsay stays the biology voice; Lindsay and Sam sound "librarian"). Wanted: a male and a female
+# candidate that sound more nerdy / documentary / official. Audition round 1: narration/voice_samples.yaml.
+# Round 1 (2026-10-30): owner liked David ("a good unique voice, sounds like an old science nerd") and Harper
+# ("nice"). David is the narrator; Harper is the second voice (backup, or a later voice test - never mixed inside
+# the first A/B batch). One voice for the whole A/B batch; a video and its Shorts always share one voice.
+voice_id: ppLqTilh7rH7fbUVlXsf   # David - Documentary (ElevenLabs library, US, older; 730 days' notice)
+name: David
+model_id: eleven_v4              # 1 credit per character (checked via /v1/models 2026-10-30)
+voice_settings: {stability: 0.5, similarity_boost: 0.75, style: 0.0, use_speaker_boost: true, speed: 1.0}
+seed: 1
+backup:
+  voice_id: Fihx1nL7DQV0DEuFJSG1   # Harper - Female American Documentary (library; 730 days' notice)
+  name: Harper

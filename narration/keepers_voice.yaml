@@ -1,0 +1,10 @@
+# Forest Keepers narrator (docs/engines/forest_keepers_night_animals.md). Owner 2026-11-01, round 2 of the audition
+# (narration/keepers_voice_samples.yaml): H, Johanna - an elderly, gentle, soft and unhurried storyteller. The gentle
+# grandmother who gives hints of what the Keepers are up to (owner: like Puffin Rock's narrator). Narrated uploads
+# get the AI-voice disclosure. Never the biology voice (Lindsay); Space Explained keeps its own (narration/voice.yaml).
+voice_id: F6nGuJbivpy6qJE45XFS   # Johanna - Calm, Friendly and Inviting (ElevenLabs library; 730 days' notice)
+name: Johanna
+model_id: eleven_v4
+# owner after FK0008: slower (and fewer words) - this is to relax to, not to rush
+voice_settings: {stability: 0.5, similarity_boost: 0.75, style: 0.0, use_speaker_boost: true, speed: 0.88}
+seed: 1

@@ -1,0 +1,10 @@
+numpy
+scipy
+pillow
+pyyaml
+opencv-python-headless
+pymunk>=7
+numba        # Tiny World 3D renderer (engine/iso); optional, but plain numpy is many times slower
+requests
+wgpu         # Kaleidoscope engine: GPU compute on the discrete card (engine/gpu.py)
+skia-python  # vector drawing: Curiosity Unknown (Watt rig) and the Snow Globe lodge (families/snow_globe); every Snow Globe helper needs it

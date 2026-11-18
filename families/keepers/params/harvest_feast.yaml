@@ -1,0 +1,34 @@
+# Forest Keepers engine - episode 8: The Harvest Feast (docs/engines/forest_keepers_harvest_feast.md), 16:9.
+# Thanksgiving episode. The water wheel from episode 4 turns a little acorn mill (hook: a squirrel knocks an acorn into
+# Wheels' basket, flour puffs into the sack) -> the long feast table (ten planks trimmed at a stop block, laid across two
+# fallen logs) and a clay oven built coil by coil -> bread and acorn pies baked, the table set, the lanterns lit -> the
+# forest animals from episode 4 come out of their houses and everyone eats together. End sign appended.
+family: keepers
+name: harvest_feast        # render ID suffix: FK####_harvest_feast
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 600
+summary: "Forest Keepers: the Keepers mill acorn flour at the water wheel, build a long table and a clay oven, bake bread and acorn pies, and share a harvest feast with the forest animals"
+
+monsters: 6
+monster_scale: 0.55
+fade: 0.8
+acts: [build, mill, table, bake, feast]
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 1.0
+  bed_gain: 1.0
+
+chatter:
+  gap: [3.6, 6.0]
+  vel: 0.34
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

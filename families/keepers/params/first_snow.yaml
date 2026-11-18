@@ -1,0 +1,33 @@
+# Forest Keepers engine - episode 5: First Snow (docs/engines/forest_keepers_first_snow.md), 16:9.
+# The first snow -> Wheels gets stuck, Twigs has an idea: sleds -> the sled workshop makes three sleds ->
+# up the hill -> a sled race down it into the snowbank -> cozy at the treehouse. End sign appended.
+# From this episode on the Keepers talk more (chatter.py).
+family: keepers
+name: first_snow           # render ID suffix: FK####_first_snow
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 600
+summary: "Forest Keepers: the first snow; the Keepers build three sleds in a snowy workshop and race them down the hill"
+
+monsters: 6
+monster_scale: 0.55
+fade: 0.8
+acts: [first_snow, sleds, hill, race, cozy]
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 1.0
+  bed_gain: 1.0
+
+chatter:
+  gap: [3.6, 6.0]          # seconds of quiet before a Keeper turns to us with an aside
+  vel: 0.34
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

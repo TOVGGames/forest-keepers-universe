@@ -1,0 +1,35 @@
+# Forest Keepers engine - episode 10: Bug Hunt (docs/engines/forest_keepers_bug_hunt.md), 16:9.
+# A night walk along a forest path: Digs digs up an earthworm, the Keeper Field Guide comes out on its reading cart,
+# and the Keepers find six bugs, each their own way (Digs digs, Hans rolls a log, Twigs peels bark, Wheels lifts a
+# rock, Springs bounces up to a plant, Glo dims his light by the ferns). Every bug gets a close-up in Glo's lens,
+# drawn in code to field-guide accuracy (bugs.py), is matched in the guide and gets its name card. End sign appended.
+family: keepers
+name: bug_hunt             # render ID suffix: FK####_bug_hunt
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 600
+summary: "Forest Keepers: a night bug hunt; the Keepers find an earthworm, pill bugs, a millipede, a ground beetle, a ladybug and fireflies, look at each in Glo's big lens and find it in their field guide"
+
+monsters: 6
+monster_scale: 0.55
+fade: 0.8
+acts: [hunt]
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 1.0
+  bed_gain: 1.0
+  variant: bughunt
+
+chatter:
+  gap: [3.6, 6.0]
+  vel: 0.34
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45

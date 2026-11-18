@@ -1,0 +1,13 @@
+secrets/
+.venv/
+__pycache__/
+*.pyc
+renders/*
+!renders/forest_keepers_talk/
+renders/forest_keepers_talk/*
+!renders/forest_keepers_talk/ep1/
+renders/forest_keepers_talk/ep1/stills/
+narration/cache/
+video_log/
+*.mp4
+*_theme.wav

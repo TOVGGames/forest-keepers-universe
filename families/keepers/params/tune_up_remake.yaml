@@ -1,0 +1,36 @@
+# Forest Keepers engine - episode 6 REMAKE: The Big Tune-Up, old look until the storybook press, then flat (docs/engines/forest_keepers_tune_up.md), 16:9.
+# The new look comes on. A bunny hides from Hans' face-tentacle beard, the hedgehog curls up at Twigs' sharp teeth;
+# Glo's idea: back to the factory. The orb trolley lifts the six orbs out (each Keeper goes pale grey and falls
+# asleep), the old line carries them through UNCLIP (badges, Hans' beard, Twigs' sharp mouth), FIT (Hans' smile,
+# Twigs' grin and brow), SAND and POLISH; the orbs drop back in and flash the Forest Keeper badge, Hans wakes up
+# smiling. A mirror on the way out; back home the bunny and the hedgehog come to them. End sign appended.
+family: keepers
+name: tune_up_remake       # render ID suffix: FK####_tune_up_remake
+seed: 1
+format: hd
+outro: 2.0
+max_duration: 600
+summary: "Forest Keepers: the Keepers go back to the factory for a tune-up; their orbs come out, the line gives Hans a smile and Twigs a friendly grin, sands and polishes everyone, and the orbs go back in"
+
+monsters: 6
+monster_scale: 0.55
+fade: 0.8
+acts: [trip, hall_switch, home_wave]   # owner FK0018 review: the beacon shockwave, then the wave over the landscape
+
+camera:
+  omega: 1.6
+
+song:
+  gain: 1.0
+  bed_gain: 1.0
+  variant: tuneup          # its own key, tempo and form of the Keepers theme (owner: every video its own soundtrack)
+
+chatter:
+  gap: [3.6, 6.0]
+  vel: 0.34
+
+visual:
+  glow: 1.0
+  glow_radius: 1.2
+  grain: 1.2
+  vignette: 0.45
